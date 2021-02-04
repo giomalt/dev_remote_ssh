@@ -30,5 +30,5 @@ ssh -NL 1234:localhost:1234 <your_username>@<remote_server>
 5. On your local machine, open your browser and paste the jupyter notebook link.
 
 If you save the notebook, it will be saved in your remote machine.
-You should also be able to do other operation on your remote machine (i.e. download files, or run command lines, like ```!ls```).
+You should also be able to do other operation on your remote machine (i.e. download files, or run shell commands, like ```!ls```).
 Happy working!
