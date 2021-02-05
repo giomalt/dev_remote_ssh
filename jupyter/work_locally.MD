@@ -5,7 +5,7 @@
 ssh <your_username>@<remote_server>
 ```
 
-**on your remote machine**
+***on your remote machine***
 
 2. go to your code folder and activate your conda environment
 ```
@@ -23,7 +23,7 @@ http://localhost:1234/?token=asd231fe875a9a123121312f123127638130adsan1
 ```
 copy it for later
 
-**on your local machine**
+***on your local machine***
 
 4. open a SSH connection using port forwarding (tunneling)
 ```
