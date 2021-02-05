@@ -35,6 +35,6 @@ ssh -NL 1234:localhost:1234 <your_username>@<remote_server>
 
 If you save the notebook, it will be saved on your remote machine.
 
-You should also be able to do other operation on your remote machine (i.e. download files, or run shell commands, like ```!ls```).
+You should also be able to do other operations on your remote machine (i.e. download files, or run shell commands, like ```!ls```).
 
 Happy working!
