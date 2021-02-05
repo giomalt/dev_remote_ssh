@@ -1,4 +1,4 @@
-## How to run jupyter on a remote machine (SSH) and work on your machine via SSH tunneling
+## How to run jupyter on a remote machine (SSH) and work on your local machine via SSH tunneling
 
 1. Log in your remote session via SSH
 ```
